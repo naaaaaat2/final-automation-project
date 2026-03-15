@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Test
+.pytest_cache/
+.allure/
+*.log
+
+# Binaries
+chromedriver.exe
+chromedriver
+
+# Environment
+.env
+*.env

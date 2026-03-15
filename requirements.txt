@@ -1,0 +1,9 @@
+﻿pytest==8.3.5
+selenium==4.29.0
+requests==2.32.3
+allure-pytest==2.13.5
+webdriver-manager==4.0.2
+python-dotenv==1.0.1
+faker==36.2.2
+pytest-xdist==3.6.1
+flake8==7.1.2
